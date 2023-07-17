@@ -1,1 +1,27 @@
-
+{
+    "name": "OCR Exam Reference Language",
+    "scopeName": "source.ocrexamreference",
+    "fileTypes": ["orl"],
+    "patterns": [
+      {
+        "match": "\\b(for|while|do|endwhile|if|then|elseif|else|endif|switch|case|default|endswitch)\\b",
+        "name": "keyword.control.ocrexamreference"
+      },
+      {
+        "match": "\\b(print|next|open|close|readLine|writeLine|newFile)\\b",
+        "name": "support.function.ocrexamreference"
+      },
+      {
+        "match": "\\b(true|false)\\b",
+        "name": "constant.language.ocrexamreference"
+      },
+      {
+        "match": "\\b\\w+\\b",
+        "name": "variable.ocrexamreference"
+      },
+      {
+        "match": "//.*$",
+        "name": "comment.line.ocrexamreference"
+      }
+    ]
+  }
