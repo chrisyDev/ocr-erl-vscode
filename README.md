@@ -1,4 +1,4 @@
-# OCR Exam Reference Language
+## OCR Exam Reference Language
 ### Syntax Highlighting and Auto Completion for ORL
 [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
