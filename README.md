@@ -1,4 +1,4 @@
-# OCR Exam Reference Language
+# OCR Exam Reference Language Extension
 ### Syntax Highlighting and Auto Completion for ORL
 [![MIT license](tags/license-mit.svg)](LICENSE) [![made-for-VSCode](tags/vscode.svg)](https://code.visualstudio.com/)
 
@@ -9,4 +9,5 @@ Install it and make a .orl file.
 
 ## To be added
 Intellisense suggestions
+
 Interpeter?
